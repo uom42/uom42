@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Oleg, windows Insider since 1990, hobby programmer.
-- 🌱 Currently learning C#v12 & Kotlin, looking to collaborate on interesting projects.
+- 🌱 Currently working on MAUI and learning more about Cross-platform.
+- 👯 I’m looking to collaborate with other developers and content creators
