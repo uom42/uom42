@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Oleg, windows Insider since 1990, hobby programmer.
+- 👋 Hi, I’m windows Insider since 1990, hobby programmer.
 - 🌱 Currently working on MAUI and learning more about Cross-platform.
 - 👯 I’m looking to collaborate with other developers and content creators
